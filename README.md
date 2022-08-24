@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Clydexy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Swift, Python, React.js
+- 📫 Reach me at xuj1@kgv.hk
+
+# Portfolio
+
+[This](erikxu.me) is my portfolio! Check it out
 
 <!---
 Clydexy/Clydexy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
