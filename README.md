@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clydexy
-- 👀 I’m interested in Swift, Python, React.js
+- 👀 I’m interested in Swift, Python, React.js, Vue.js, Tailwind
 - 📫 Reach me at xuj1@kgv.hk
 
 # Portfolio
