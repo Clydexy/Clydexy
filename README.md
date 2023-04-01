@@ -4,7 +4,7 @@
 
 # Portfolio
 
-[This](www.erikxu.me) is my portfolio! Check it out
+[This](https://www.erikxu.me) is my portfolio! Check it out
 
 <!---
 Clydexy/Clydexy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
