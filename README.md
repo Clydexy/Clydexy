@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Clydexy
-- 👀 I’m interested in Swift, Python, React.js, Vue.js, Tailwind
-- 📫 Reach me at xuj1@kgv.hk
-
-# Portfolio
-
-[This](https://www.erikxu.me) is my portfolio! Check it out
+- 👋 Hi, I’m @Clydexy, an Undergraduate at the University of Cambridge studying Computer Science
+- 👀 I’m interested in Software Engineering, AI Research, Quantitative Finance, and Data Analytics
+- 📫 Reach me at ejxx2@cam.ac.uk
 
 <!---
 Clydexy/Clydexy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
