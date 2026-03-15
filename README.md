@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clydexy, an Undergraduate at the University of Cambridge studying Computer Science
-- 👀 I’m interested in Software Engineering, AI Research, Quantitative Finance, and Data Analytics
+- 👀 I’m interested in AI Research, Software Engineering, and Quantitative Finance
 - 📫 Reach me at ejxx2@cam.ac.uk
 
 <!---
